@@ -20,11 +20,3 @@ public class Vehicle {
         System.out.println("car: "+model+" speed:"+speed+" ,"+stop);
     }
 }
-
-//class Car extends Vehicle{
-//
-//}
-//
-//class Motorcycle extends Vehicle{
-//
-//}
